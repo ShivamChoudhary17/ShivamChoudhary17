@@ -3,6 +3,8 @@
 <br />
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/S_Choudhary0369?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/S_Choudhary0369)
+[![Insta Follow](https://img.shields.io/twitter/follow/shivamchoudhary3690?color=1DA1F2&logo=instagram&style=for-the-badge)](https://www.instagram.com/shivamchoudhary3690/)
+
 
 <br />
 
