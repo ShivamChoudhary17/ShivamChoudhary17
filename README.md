@@ -6,7 +6,7 @@
 
 <br />
 
-## I'm a Student, Developer!!
+## I'm a Student, in way to become Hokage. Believe it!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other friends and make anything new
