@@ -4,6 +4,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/S_Choudhary0369?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/S_Choudhary0369)
 
+<br />
+
 ## I'm a Student, Developer!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -11,14 +13,17 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
+<br />
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://www.spotify.com/us/account/overview/)
 
+<br />
+
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -50,20 +55,6 @@
 
 ---
 
-<!-- ### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Top VS Code Updates | v1.57 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=R6AgcZ9oJ4k)
-- [Everything New In React 18!](https://www.youtube.com/watch?v=t8E_xtofvVY)
-- [Who Will Win? No-Code, Low-Code, AI. Should You Be Worried?](https://www.youtube.com/watch?v=0ldB86iVu9w)
-- [How To Manage Multiple APIs with RapidAPI (2021)](https://www.youtube.com/watch?v=NFToND6x_nI)
-- [How Core Web Vitals Will Affect Google Rankings in 2021 | Interview :: Lee Robinson](https://www.youtube.com/watch?v=-lcDZDfjekc)
-<!-- YOUTUBE:END --> -->
-
-<!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
-
----
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -80,31 +71,17 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/codeSTACKr/portfolio-sass/issues/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. 🎉 Merged PR [#1](https://github.com/codeSTACKr/portfolio-sass/pull/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. 🗣 Commented on [#10](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/10) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/11) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-5. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
-<!--END_SECTION:activity-->
 
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.ShivamChoudhary17.vercel.app/api?username=ShivamChoudhary17&show_icons=true&hide_border=true" />
 
 </details>
 
 [website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
