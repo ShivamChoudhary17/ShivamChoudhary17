@@ -74,7 +74,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamChoudhary17)](https://github.com/ShivamChoudhary17/github-readme-stats)
+[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamChoudhary17)](https://github.com/ShivamChoudhary17/ShivamChoudhary17/edit/main/README.md)
 
 </details>
 
