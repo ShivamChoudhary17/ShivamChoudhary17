@@ -77,7 +77,9 @@
 ---
 
 
-  
+<a href="https://github.com/ShivamChoudhary17/ShivamChoudhary17">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamChoudhary17&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>  
  ![Profile Views](http://img.shields.io/badge/Profile%20Views-824-blue)
 <br />
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamChoudhary17&show_icons=true&theme=radical)
