@@ -1,4 +1,5 @@
-### Hi there, I'm Shivam - aka [ShivamChoudhary17][website] 👋   
+<h2>नमस्ते (Namaste)🙏🏻, I'm Shivam - aka [ShivamChoudhary17][website]! <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
+
 <img align='right' src="https://media.giphy.com/media/hVm2JYyoGy7MGqX4H8/giphy.gif" width="230">
 <br />
 
