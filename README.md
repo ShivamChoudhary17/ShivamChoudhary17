@@ -7,7 +7,7 @@
 
 [![Git Up](https://img.shields.io/github/followers/ShivamChoudhary17?style=social&logo=github&style=for-the-badge)](https://github.com/ShivamChoudhary17)
 [![Twitter Follow](https://img.shields.io/twitter/follow/S_Choudhary0369?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/S_Choudhary0369)
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Raymo111.Raymo111&color=00cf00)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=ShivamChoudhary17.ShivamChoudhary17&color=00cf00)
 
 
 <br />
