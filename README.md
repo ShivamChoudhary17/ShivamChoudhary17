@@ -1,5 +1,7 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Shivam Choudhary! <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
 
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Shivam(17|nd Choudhary)|https://ShivamChoudhary17)" title="👋 Hi there! I'm (Shivam(17|nd Choudhary)|https://ShivamChoudhary17)"/>](https://ShivamChoudhary17/)
+
 <img align='right' src="https://media.giphy.com/media/hVm2JYyoGy7MGqX4H8/giphy.gif" width="230">
 <br />
 
