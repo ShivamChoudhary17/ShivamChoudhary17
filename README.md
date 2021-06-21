@@ -1,4 +1,7 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Shivam Choudhary! <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
+<p align="center">
+  <a href="https://github.com/ShivamChoudhary17/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
 <!-- [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Shivam(17|nd Choudhary)|https://ShivamChoudhary17)" title="👋 Hi there! I'm (Shivam(17|nd Choudhary)|https://ShivamChoudhary17)"/>](https://ShivamChoudhary17/) -->
 
@@ -76,10 +79,7 @@
 
 ---
 
-
-<a href="https://github.com/ShivamChoudhary17/ShivamChoudhary17">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamChoudhary17&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>  
+ 
  ![Profile Views](http://img.shields.io/badge/Profile%20Views-824-blue)
 <br />
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamChoudhary17&show_icons=true&theme=radical)
