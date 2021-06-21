@@ -1,4 +1,4 @@
-### Hi there, I'm Shivam - aka [ShivamChoudhary17][website] 👋
+### Hi there, I'm Shivam - aka [ShivamChoudhary17][website] 👋   https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif
 
 <br />
 
@@ -12,7 +12,6 @@
 ## In way to become Hokage, Believe it!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other friends and make anything new
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
