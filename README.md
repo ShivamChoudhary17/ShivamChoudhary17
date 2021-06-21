@@ -8,9 +8,20 @@
 <img align='right' src="https://media.giphy.com/media/hVm2JYyoGy7MGqX4H8/giphy.gif" width="230">
 <br />
 
-[![Git Up](https://img.shields.io/github/followers/ShivamChoudhary17?style=social&logo=github&style=for-the-badge)](https://github.com/ShivamChoudhary17)
+<!-- [![Git Up](https://img.shields.io/github/followers/ShivamChoudhary17?style=social&logo=github&style=for-the-badge)](https://github.com/ShivamChoudhary17)
 [![Twitter Follow](https://img.shields.io/twitter/follow/S_Choudhary0369?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/S_Choudhary0369)
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=ShivamChoudhary17.ShivamChoudhary17&color=00cf00)
+ -->
+
+<p align="center">
+
+  <a href="https://twitter.com/DenverCoder1">
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/S_Choudhary0369?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/DenverCoder1">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ShivamChoudhary17?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/ShivamChoudhary17/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/ShivamChoudhary17-profile-views"/></a>
+</p>
 
 
 <br />
