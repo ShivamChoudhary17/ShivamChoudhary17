@@ -1,13 +1,13 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Shivam Choudhary! <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Shivam(17|nd Choudhary)|https://ShivamChoudhary17)" title="👋 Hi there! I'm (Shivam(17|nd Choudhary)|https://ShivamChoudhary17)"/>](https://ShivamChoudhary17/)
+<!-- [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Shivam(17|nd Choudhary)|https://ShivamChoudhary17)" title="👋 Hi there! I'm (Shivam(17|nd Choudhary)|https://ShivamChoudhary17)"/>](https://ShivamChoudhary17/) -->
 
 <img align='right' src="https://media.giphy.com/media/hVm2JYyoGy7MGqX4H8/giphy.gif" width="230">
 <br />
 
 [![Git Up](https://img.shields.io/github/followers/ShivamChoudhary17?style=social&logo=github&style=for-the-badge)](https://github.com/ShivamChoudhary17)
 [![Twitter Follow](https://img.shields.io/twitter/follow/S_Choudhary0369?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/S_Choudhary0369)
-[![Insta Follow](https://img.shields.io/twitter/follow/shivamchoudhary3690?color=1DA1F2&logo=instagram&style=for-the-badge)](https://www.instagram.com/shivamchoudhary3690/)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Raymo111.Raymo111&color=00cf00)
 
 
 <br />
