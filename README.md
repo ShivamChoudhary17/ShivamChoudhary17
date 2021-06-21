@@ -17,10 +17,11 @@
 
   <a href="https://twitter.com/DenverCoder1">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/S_Choudhary0369?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/DenverCoder1">
+  <a href="https://github.com/ShivamChoudhary17">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ShivamChoudhary17?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://github.com/ShivamChoudhary17/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/ShivamChoudhary17-profile-views"/></a>
+  
 </p>
 
 
