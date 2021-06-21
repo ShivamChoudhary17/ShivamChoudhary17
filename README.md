@@ -1,4 +1,4 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Shivam - aka [ShivamChoudhary17][website]! <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
+<h2>नमस्ते (Namaste)🙏🏻, I'm Shivam Choudhary! <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
 
 <img align='right' src="https://media.giphy.com/media/hVm2JYyoGy7MGqX4H8/giphy.gif" width="230">
 <br />
@@ -76,6 +76,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  
+  ![Profile Views](http://img.shields.io/badge/Profile%20Views-824-blue)
 <br />
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamChoudhary17&show_icons=true&theme=radical)
   <br />
