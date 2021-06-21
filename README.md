@@ -86,6 +86,8 @@
 
 </details>
 
+![Chart not found](https://raw.githubusercontent.com/ShivamChoudhary17/ShivamChoudhary17/master/charts/bar_graph.png) 
+
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
