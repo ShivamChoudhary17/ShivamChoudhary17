@@ -74,19 +74,15 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+
   
-  ![Profile Views](http://img.shields.io/badge/Profile%20Views-824-blue)
+ ![Profile Views](http://img.shields.io/badge/Profile%20Views-824-blue)
 <br />
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamChoudhary17&show_icons=true&theme=radical)
   <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamChoudhary17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-</details>
-
-![Chart not found](https://raw.githubusercontent.com/ShivamChoudhary17/ShivamChoudhary17/master/charts/bar_graph.png) 
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
