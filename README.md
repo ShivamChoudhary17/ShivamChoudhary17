@@ -1,5 +1,5 @@
-### Hi there, I'm Shivam - aka [ShivamChoudhary17][website] 👋   https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif
-
+### Hi there, I'm Shivam - aka [ShivamChoudhary17][website] 👋   
+<img align='right' src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="230">
 <br />
 
 [![Git Up](https://img.shields.io/github/followers/ShivamChoudhary17?style=social&logo=github&style=for-the-badge)](https://github.com/ShivamChoudhary17)
