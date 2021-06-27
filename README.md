@@ -23,7 +23,7 @@
   <a href="https://github.com/ShivamChoudhary17">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ShivamChoudhary17?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://www.linkedin.com/in/theshivamchoudhary/">
-    <img alt="linkedin" title="Let's connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Follow"/></a>
+    <img alt="linkedin" title="Let's connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5/follow/theshivamchoudhary?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
   
 </p>
