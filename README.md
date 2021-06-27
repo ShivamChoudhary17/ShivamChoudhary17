@@ -1,5 +1,5 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Shivam Choudhary! <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
-<p align="center"> <img src = "https://media.giphy.com/media/Apbk5dF0ryR7EAbg4v/giphy.gif" width=90% height=50%> </p>
+<p align="center"> <img src = "https://media.giphy.com/media/Apbk5dF0ryR7EAbg4v/giphy.gif" width=90% height=30%> </p>
 
 
 <!-- <p align="center">
