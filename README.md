@@ -84,7 +84,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Linked List problems](https://shivamchoudhary2k.medium.com/linked-list-9ef329a573e0)
+- [Why R?](https://shivamchoudhary2k.medium.com/why-r-55bce26985f9)
 - [VLOOKUP IN Depth](https://shivamchoudhary2k.medium.com/vlookup-in-depth-f5ab5ac2b6bf)
 - [Pivot tables in analysis](https://shivamchoudhary2k.medium.com/pivot-tables-in-analysis-1b2c6238e005)
 - [Machine Learning Project Must Try](https://shivamchoudhary2k.medium.com/machine-learning-project-must-try-ac5c41747d52)
