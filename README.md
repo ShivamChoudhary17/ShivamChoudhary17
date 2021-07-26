@@ -1,7 +1,8 @@
 <h2>नमस्ते (Namaste)🙏🏻 <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Shivam</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer from India<img src="https://media.giphy.com/media/ohvqnSzeODsMZYZd4q/giphy.gif" width="30"> </h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargakshit" alt="gargakshit" /> </p>
 
 - 🔭 I’m currently working on **some of my side projects :P**
