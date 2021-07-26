@@ -1,4 +1,4 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Shivam Choudhary! <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
+<h2>नमस्ते (Namaste)🙏🏻 <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Shivam</h1>
 <h3 align="center">A passionate developer from India</h3>
@@ -25,5 +25,3 @@
 
 
 _Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
-
-See how this README works [here](https://dev.to/gargakshit/how-i-added-my-spotify-statistics-to-my-github-readme-4jdd)
