@@ -18,8 +18,5 @@
 
 - ⚡ Fun fact **I love functional programming, cryptography and Dogs 🐱‍💻**
 
-<p> src="https://github-readme-stats-five-lyart.vercel.app/api?username=ShivamChoudhary17&show_icons=true" alt="ShivamChoudhary17" /> </p>
-
-
 
 _Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
