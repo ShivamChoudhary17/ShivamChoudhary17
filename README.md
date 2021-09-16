@@ -16,7 +16,9 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/theshivamchoudhary/**
 
-- ⚡ Fun fact **I love functional programming, cryptography and Dogs 🐱‍💻**src="https://github-readme-stats-five-lyart.vercel.app/api?username=ShivamChoudhary17&show_icons=true" alt="ShivamChoudhary17" /> </p>
+- ⚡ Fun fact **I love functional programming, cryptography and Dogs 🐱‍💻**
+
+<p> src="https://github-readme-stats-five-lyart.vercel.app/api?username=ShivamChoudhary17&show_icons=true" alt="ShivamChoudhary17" /> </p>
 
 
 
