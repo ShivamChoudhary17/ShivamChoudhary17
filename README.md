@@ -17,6 +17,6 @@
 - 📫 How to reach me **https://www.linkedin.com/in/theshivamchoudhary/**
 
 - ⚡ Fun fact **I love functional programming, cryptography and Dogs 🐱‍💻**
-
+-  Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
 </h4>
-_Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
+
