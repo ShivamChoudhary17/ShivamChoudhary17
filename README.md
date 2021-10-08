@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from India <img src="https://media.giphy.com/media/z5i7CdtKqVotB9mz7h/giphy.gif" width="30"> </h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargakshit" alt="gargakshit" /> </p> -->
-
+<h4>
 - 🔭 I’m currently working on **some of my side projects :P**
 
 - 👯 I’m looking to collaborate on **anything free and open source**
@@ -18,5 +18,5 @@
 
 - ⚡ Fun fact **I love functional programming, cryptography and Dogs 🐱‍💻**
 
-
+</h4>
 _Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
