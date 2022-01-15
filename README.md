@@ -5,7 +5,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargakshit" alt="gargakshit" /> </p> -->
 <h4 align="center">
  <p align="center">
-  <img src="https://github.com/ShivamChoudhary17/ShivamChoudhary17/blob/main/git_img.png" width="500" height="500" title="hover text"/>
+  <img src="https://github.com/ShivamChoudhary17/ShivamChoudhary17/blob/main/git_img.png" width="800" height="500" title="hover text"/>
 </p>
  
  
