@@ -6,7 +6,6 @@
 <h4 align="center">
 
 <a href="url"><img src="https://github.com/ShivamChoudhary17/ShivamChoudhary17/blob/main/git_img.png"  width="90%" style="border-radius:50%"></a>
-![Some Title]("https://github.com/ShivamChoudhary17/ShivamChoudhary17/blob/main/git_img.png"){:style="float: right;margin-right: 7px;margin-top: 7px;"} 
  
   Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
 </h4>
