@@ -5,19 +5,6 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargakshit" alt="gargakshit" /> </p> -->
 <h4 align="center">
  
- 🔭 I’m currently working on **some of my side projects :P**
- 
- 👯 I’m looking to collaborate on **anything free and open source**
- 
- 👨‍💻 All of my projects are available at [https://github.com/ShivamChoudhary17](https://github.com/ShivamChoudhary17)
- 
- 💬 Ask me about **kotlin, Java, Python, flutter and React**
- 
- 🧠 I am currently learning **Android Development**
- 
- 📫 How to reach me **https://www.linkedin.com/in/theshivamchoudhary/**
- 
- ⚡ Fun fact **I love functional programming, cryptography and Dogs 🐱‍💻**
  
   Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
 </h4>
