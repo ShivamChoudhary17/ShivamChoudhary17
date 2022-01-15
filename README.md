@@ -4,12 +4,9 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargakshit" alt="gargakshit" /> </p> -->
 <h4 align="center">
- <style>
-.roundimg {
-  border-radius: 50%;
-}
-</style>
- <img src="https://github.com/ShivamChoudhary17/ShivamChoudhary17/blob/main/git_img.png" width="90%" class="roundimg"></img>
+
+<a href="url"><img src="https://github.com/ShivamChoudhary17/ShivamChoudhary17/blob/main/git_img.png" height="auto" width="200" style="border-radius:50%"></a>
+ <img src="" width="90%" class="roundimg"></img>
 
  
  
