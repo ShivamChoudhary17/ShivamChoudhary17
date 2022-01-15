@@ -4,10 +4,8 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargakshit" alt="gargakshit" /> </p> -->
 <h4 align="center">
- <p align="center">
-  <img src="https://github.com/ShivamChoudhary17/ShivamChoudhary17/blob/main/git_img.png" width="800" height="500" title="hover text"/>
-</p>
- 
+ <img src="https://github.com/ShivamChoudhary17/ShivamChoudhary17/blob/main/git_img.png" width="90%"></img>
+
  
  
   Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
